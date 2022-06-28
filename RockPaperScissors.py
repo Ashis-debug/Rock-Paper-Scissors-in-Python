@@ -25,7 +25,7 @@ def is_win(player, opponent):
         return True 
 
 
-n = int(input(('How many times you wanna pay the game: ')))
+n = int(input(('How many times you wanna play the game: ')))
 user_point = 0
 computer_point = 0
 for i in range(n):
